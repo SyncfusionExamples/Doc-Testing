@@ -14,7 +14,7 @@ var user_mail = process.env.GIT_MAIL;
 /**
  * Source shipping to gitlap
  */
-gulp.task('ship-to-gitlap', function (done) {
+gulp.task('clone', function (done) {
     console.log('---check----' + user_mail);
     console.log('---user---' + user);
     
