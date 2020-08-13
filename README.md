@@ -1,2 +1,2 @@
 # Doc-Testing
-Blazor github edit support
+Blazor github edit supports
